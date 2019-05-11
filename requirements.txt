@@ -1,0 +1,16 @@
+altgraph==0.16.1
+avalon-framework==1.5.5
+beautifulsoup4==4.6.3
+certifi==2018.8.24
+chardet==3.0.4
+colorama==0.3.9
+future==0.16.0
+idna==2.7
+macholib==1.11
+pefile==2018.8.8
+Pillow==5.2.0
+PyInstaller==3.4
+pywin32-ctypes==0.2.0
+requests==2.19.1
+selenium==3.13.0
+urllib3==1.23
