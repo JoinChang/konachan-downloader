@@ -9,8 +9,8 @@ idna==2.7
 macholib==1.11
 pefile==2018.8.8
 Pillow==latest
-PyInstaller==3.4
+PyInstaller==latest
 pywin32-ctypes==0.2.0
-requests==2.19.1
+requests==latest
 selenium==3.13.0
-urllib3==1.23
+urllib3==latest
