@@ -8,7 +8,7 @@ future==0.16.0
 idna==2.7
 macholib==1.11
 pefile==2018.8.8
-Pillow==5.2.0
+Pillow==latest
 PyInstaller==3.4
 pywin32-ctypes==0.2.0
 requests==2.19.1
